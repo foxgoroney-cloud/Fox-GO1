@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "fox.Delivery.app-debug-63:/layout_overlay_order.xml.flat",
+        "source": "fox.Delivery.app-main-57:/layout/overlay_order.xml"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "fox.Delivery.app-main-57:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/drawable-v21_launch_background.xml.flat",
+        "source": "fox.Delivery.app-main-57:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "fox.Delivery.app-main-57:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/drawable_notification_icon.png.flat",
+        "source": "fox.Delivery.app-main-57:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "fox.Delivery.app-main-57:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/drawable_splash_logo.png.flat",
+        "source": "fox.Delivery.app-main-57:/drawable/splash_logo.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "fox.Delivery.app-main-57:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "fox.Delivery.app-main-57:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fox.Delivery.app-debug-63:/raw_notification.wav.flat",
+        "source": "fox.Delivery.app-main-57:/raw/notification.wav"
+    }
+]

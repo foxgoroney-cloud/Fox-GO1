@@ -13,7 +13,12 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        //
+        \App\Console\Commands\CreateZoneCommand::class,
+        \App\Console\Commands\AttachModulesToZoneCommand::class,
+        \App\Console\Commands\CatalogSeedCommand::class,
+        \App\Console\Commands\AttributeSeedCommand::class,
+        \App\Console\Commands\ParcelCategorySeedCommand::class,
+        \App\Console\Commands\SeedDmVehiclesCommand::class,
     ];
 
     /**

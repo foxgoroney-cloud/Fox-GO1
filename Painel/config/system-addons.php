@@ -1,14 +1,14 @@
 <?php return array (
-  'admin_panel' =>
+  'admin_panel' => 
   array (
-    'active' => '0',
-    'username' => '1',
-    'purchase_key' => '1',
+    'active' => '1',
+    'username' => 'roneycabralsilva',
+    'purchase_key' => '4060078c-e6c4-4e34-93ac-53f9145aaa1c',
     'software_id' => 'MzY3NzIxMTI=',
-    'domain' => '',
+    'domain' => 'foxgodelivery.com.br',
     'software_type' => 'product',
   ),
-  'vendor_panel' =>
+  'vendor_panel' => 
   array (
     'active' => '0',
     'username' => '',
@@ -17,7 +17,7 @@
     'domain' => '',
     'software_type' => 'addon',
   ),
-  'user_app' =>
+  'user_app' => 
   array (
     'active' => '0',
     'username' => '',
@@ -26,7 +26,7 @@
     'domain' => '',
     'software_type' => 'addon',
   ),
-  'vendor_app' =>
+  'vendor_app' => 
   array (
     'active' => '1',
     'username' => '',
@@ -35,16 +35,16 @@
     'domain' => '',
     'software_type' => 'addon',
   ),
-  'deliveryman_app' =>
+  'deliveryman_app' => 
   array (
     'active' => '1',
-    'username' => '',
-    'purchase_key' => '',
+    'username' => 'roneycabralsilva',
+    'purchase_key' => '6f6aca7b-97ef-490e-b72c-a689f695a62a',
     'software_id' => 'MzY3NzIxNDg=',
-    'domain' => '',
+    'domain' => 'foxgodelivery.com.br',
     'software_type' => 'addon',
   ),
-  'react_web' =>
+  'react_web' => 
   array (
     'active' => '1',
     'username' => '',

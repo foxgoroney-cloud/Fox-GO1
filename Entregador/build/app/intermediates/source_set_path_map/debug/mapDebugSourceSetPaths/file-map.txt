@@ -1,0 +1,90 @@
+fox.Delivery.app-jetified-startup-runtime-1.2.0-0 C:\Users\roney\.gradle\caches\8.12\transforms\025d2beb65fb4899f4f5416255899510\transformed\jetified-startup-runtime-1.2.0\res
+fox.Delivery.app-lifecycle-livedata-2.8.7-1 C:\Users\roney\.gradle\caches\8.12\transforms\04ddcc0629c1e57897bec8e3aff01c24\transformed\lifecycle-livedata-2.8.7\res
+fox.Delivery.app-jetified-core-common-2.0.3-2 C:\Users\roney\.gradle\caches\8.12\transforms\091b2772838287adb7bd96adcbde4d74\transformed\jetified-core-common-2.0.3\res
+fox.Delivery.app-exifinterface-1.4.2-3 C:\Users\roney\.gradle\caches\8.12\transforms\0a4c4b8b5dc8897bf3e98877645b053f\transformed\exifinterface-1.4.2\res
+fox.Delivery.app-core-runtime-2.2.0-4 C:\Users\roney\.gradle\caches\8.12\transforms\0ef4959b598abe0185968c7ca52db706\transformed\core-runtime-2.2.0\res
+fox.Delivery.app-core-1.17.0-5 C:\Users\roney\.gradle\caches\8.12\transforms\1071eedf623b271363415dac0fb76a8d\transformed\core-1.17.0\res
+fox.Delivery.app-jetified-window-java-1.2.0-6 C:\Users\roney\.gradle\caches\8.12\transforms\11df45fca5f077aed9eefd651cc9e231\transformed\jetified-window-java-1.2.0\res
+fox.Delivery.app-jetified-lifecycle-process-2.8.7-7 C:\Users\roney\.gradle\caches\8.12\transforms\12c4b64e881dbe25b1541cb8965f69f4\transformed\jetified-lifecycle-process-2.8.7\res
+fox.Delivery.app-jetified-appcompat-resources-1.7.1-8 C:\Users\roney\.gradle\caches\8.12\transforms\184d23f546d36789466274daa4265b11\transformed\jetified-appcompat-resources-1.7.1\res
+fox.Delivery.app-jetified-lifecycle-viewmodel-ktx-2.8.7-9 C:\Users\roney\.gradle\caches\8.12\transforms\2117305b2fef61885abc7a6579a98265\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\res
+fox.Delivery.app-jetified-credentials-1.2.0-rc01-10 C:\Users\roney\.gradle\caches\8.12\transforms\27663c8db1845771e8fef32c159ad6ea\transformed\jetified-credentials-1.2.0-rc01\res
+fox.Delivery.app-jetified-lifecycle-viewmodel-release-11 C:\Users\roney\.gradle\caches\8.12\transforms\30608fbe7a2bb59f2ccbc4ba5ed9d5fe\transformed\jetified-lifecycle-viewmodel-release\res
+fox.Delivery.app-jetified-play-services-maps-20.0.0-12 C:\Users\roney\.gradle\caches\8.12\transforms\355dcf7995113894cce23bb35f2e8250\transformed\jetified-play-services-maps-20.0.0\res
+fox.Delivery.app-slidingpanelayout-1.2.0-13 C:\Users\roney\.gradle\caches\8.12\transforms\36cb235374339cd26a7ac458591a2bc5\transformed\slidingpanelayout-1.2.0\res
+fox.Delivery.app-appcompat-1.7.1-14 C:\Users\roney\.gradle\caches\8.12\transforms\39cc51064778ce4cfc99b7914f804e0d\transformed\appcompat-1.7.1\res
+fox.Delivery.app-jetified-datastore-core-release-15 C:\Users\roney\.gradle\caches\8.12\transforms\46407fd88b1ccd560a112c14a93c72d4\transformed\jetified-datastore-core-release\res
+fox.Delivery.app-jetified-firebase-messaging-25.0.1-16 C:\Users\roney\.gradle\caches\8.12\transforms\4b89370869e915fa70159422fdc19b43\transformed\jetified-firebase-messaging-25.0.1\res
+fox.Delivery.app-jetified-savedstate-1.2.1-17 C:\Users\roney\.gradle\caches\8.12\transforms\4e622ebb97196bfb12ade7268237ca7e\transformed\jetified-savedstate-1.2.1\res
+fox.Delivery.app-jetified-savedstate-ktx-1.2.1-18 C:\Users\roney\.gradle\caches\8.12\transforms\545c4ecfb1672a2b723b87ffeaa9b525\transformed\jetified-savedstate-ktx-1.2.1\res
+fox.Delivery.app-recyclerview-1.0.0-19 C:\Users\roney\.gradle\caches\8.12\transforms\5844d489d79f3fa31041718f3d98b652\transformed\recyclerview-1.0.0\res
+fox.Delivery.app-jetified-tracing-1.2.0-20 C:\Users\roney\.gradle\caches\8.12\transforms\5899940a1f92d213fd1e3e3d682f5f96\transformed\jetified-tracing-1.2.0\res
+fox.Delivery.app-jetified-lifecycle-viewmodel-savedstate-2.8.7-21 C:\Users\roney\.gradle\caches\8.12\transforms\5a8804bb49e7b414765c6f0749c66cd7\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\res
+fox.Delivery.app-jetified-play-services-base-18.5.0-22 C:\Users\roney\.gradle\caches\8.12\transforms\62f5861935848a3fe75e08da664ece85\transformed\jetified-play-services-base-18.5.0\res
+fox.Delivery.app-jetified-datastore-release-23 C:\Users\roney\.gradle\caches\8.12\transforms\6e139ae750f20c93db61ac469f54379b\transformed\jetified-datastore-release\res
+fox.Delivery.app-preference-1.2.1-24 C:\Users\roney\.gradle\caches\8.12\transforms\726538ef76cad22be8c7baa75cabd91d\transformed\preference-1.2.1\res
+fox.Delivery.app-jetified-activity-1.12.4-25 C:\Users\roney\.gradle\caches\8.12\transforms\751de6e2fe5d5551ca15ba4abb86fcb5\transformed\jetified-activity-1.12.4\res
+fox.Delivery.app-jetified-window-1.2.0-26 C:\Users\roney\.gradle\caches\8.12\transforms\7700985f18896a108b8d514a78385e64\transformed\jetified-window-1.2.0\res
+fox.Delivery.app-jetified-firebase-common-22.0.1-27 C:\Users\roney\.gradle\caches\8.12\transforms\77973c96c2bb9a44acc1a37911b99fc2\transformed\jetified-firebase-common-22.0.1\res
+fox.Delivery.app-jetified-lifecycle-runtime-ktx-release-28 C:\Users\roney\.gradle\caches\8.12\transforms\77a74555e7e83d390110ec410bf3dff0\transformed\jetified-lifecycle-runtime-ktx-release\res
+fox.Delivery.app-jetified-profileinstaller-1.4.0-29 C:\Users\roney\.gradle\caches\8.12\transforms\791c123458de505687e8f4ce4bf04b93\transformed\jetified-profileinstaller-1.4.0\res
+fox.Delivery.app-jetified-emoji2-1.3.0-30 C:\Users\roney\.gradle\caches\8.12\transforms\7b7a59922978f7b14fa8958f6d5d8e93\transformed\jetified-emoji2-1.3.0\res
+fox.Delivery.app-jetified-fragment-ktx-1.7.1-31 C:\Users\roney\.gradle\caches\8.12\transforms\7e51d94539e008671187e5e37dadbaf3\transformed\jetified-fragment-ktx-1.7.1\res
+fox.Delivery.app-webkit-1.12.0-32 C:\Users\roney\.gradle\caches\8.12\transforms\84cd341b81e74bf5aad668f2fdb52685\transformed\webkit-1.12.0\res
+fox.Delivery.app-jetified-core-1.0.0-33 C:\Users\roney\.gradle\caches\8.12\transforms\89d48481aeeed8b10db2e226ddd80991\transformed\jetified-core-1.0.0\res
+fox.Delivery.app-jetified-core-viewtree-1.0.0-34 C:\Users\roney\.gradle\caches\8.12\transforms\8e06b8662743fe2bf04a2f9087f2f348\transformed\jetified-core-viewtree-1.0.0\res
+fox.Delivery.app-lifecycle-livedata-core-2.8.7-35 C:\Users\roney\.gradle\caches\8.12\transforms\910d48c57dccca3d6e480fb55a6872a7\transformed\lifecycle-livedata-core-2.8.7\res
+fox.Delivery.app-browser-1.9.0-36 C:\Users\roney\.gradle\caches\8.12\transforms\97903cd1f60e29f5f6af92e5fb2ba9df\transformed\browser-1.9.0\res
+fox.Delivery.app-jetified-datastore-preferences-release-37 C:\Users\roney\.gradle\caches\8.12\transforms\9871d7515a47b56980d241e774434163\transformed\jetified-datastore-preferences-release\res
+fox.Delivery.app-jetified-activity-ktx-1.12.4-38 C:\Users\roney\.gradle\caches\8.12\transforms\9aabbaedc49a653e620db7892bc9ef21\transformed\jetified-activity-ktx-1.12.4\res
+fox.Delivery.app-jetified-emoji2-views-helper-1.3.0-39 C:\Users\roney\.gradle\caches\8.12\transforms\9c019b5c5c4998ac6fd64fa221f29c71\transformed\jetified-emoji2-views-helper-1.3.0\res
+fox.Delivery.app-media-1.1.0-40 C:\Users\roney\.gradle\caches\8.12\transforms\9d984b5f74a55cb280afcddc9777ed47\transformed\media-1.1.0\res
+fox.Delivery.app-jetified-datastore-preferences-core-release-41 C:\Users\roney\.gradle\caches\8.12\transforms\9f8d86b516349b85a830c29eccdaff41\transformed\jetified-datastore-preferences-core-release\res
+fox.Delivery.app-jetified-lifecycle-runtime-release-42 C:\Users\roney\.gradle\caches\8.12\transforms\a2ba79d5585bc4253f9df788846bd488\transformed\jetified-lifecycle-runtime-release\res
+fox.Delivery.app-coordinatorlayout-1.0.0-43 C:\Users\roney\.gradle\caches\8.12\transforms\a8f18badc035f18e2e96284a1bc870ff\transformed\coordinatorlayout-1.0.0\res
+fox.Delivery.app-jetified-lifecycle-livedata-core-ktx-2.8.7-44 C:\Users\roney\.gradle\caches\8.12\transforms\aac1177ec8611e96bcc40433b4755714\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\res
+fox.Delivery.app-localbroadcastmanager-1.1.0-45 C:\Users\roney\.gradle\caches\8.12\transforms\ae6c3181f3ad9675d9b1ba45981d4d96\transformed\localbroadcastmanager-1.1.0\res
+fox.Delivery.app-fragment-1.7.1-46 C:\Users\roney\.gradle\caches\8.12\transforms\ae78525360246c4e931e96c557771c66\transformed\fragment-1.7.1\res
+fox.Delivery.app-jetified-play-services-basement-18.9.0-47 C:\Users\roney\.gradle\caches\8.12\transforms\b0459ed8500979ccbf65aee0b4a32717\transformed\jetified-play-services-basement-18.9.0\res
+fox.Delivery.app-transition-1.4.1-48 C:\Users\roney\.gradle\caches\8.12\transforms\bca5a91c487a8b38c5085a98ac66c967\transformed\transition-1.4.1\res
+fox.Delivery.app-jetified-navigationevent-49 C:\Users\roney\.gradle\caches\8.12\transforms\bd8a1201f423c23b67079e60128e896d\transformed\jetified-navigationevent\res
+fox.Delivery.app-jetified-credentials-play-services-auth-1.2.0-rc01-50 C:\Users\roney\.gradle\caches\8.12\transforms\c5c3268845a545133897318a08e6a9cd\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+fox.Delivery.app-jetified-annotation-experimental-1.4.1-51 C:\Users\roney\.gradle\caches\8.12\transforms\caf73c10dc191eb451a2961d0b8a9ffc\transformed\jetified-annotation-experimental-1.4.1\res
+fox.Delivery.app-jetified-play-services-auth-20.7.0-52 C:\Users\roney\.gradle\caches\8.12\transforms\ce1dd755d55be61a6121189086f56609\transformed\jetified-play-services-auth-20.7.0\res
+fox.Delivery.app-jetified-android-maps-utils-4.1.0-53 C:\Users\roney\.gradle\caches\8.12\transforms\dd56964090a712cb1da482a053c9ee86\transformed\jetified-android-maps-utils-4.1.0\res
+fox.Delivery.app-swiperefreshlayout-1.1.0-54 C:\Users\roney\.gradle\caches\8.12\transforms\e1948553dedd0bce6a4c17de1a4c9512\transformed\swiperefreshlayout-1.1.0\res
+fox.Delivery.app-jetified-core-ktx-1.17.0-55 C:\Users\roney\.gradle\caches\8.12\transforms\f16095a6549571a34826185c4318fed5\transformed\jetified-core-ktx-1.17.0\res
+fox.Delivery.app-debug-56 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\android\app\src\debug\res
+fox.Delivery.app-main-57 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\android\app\src\main\res
+fox.Delivery.app-pngs-58 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\generated\res\pngs\debug
+fox.Delivery.app-res-59 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\generated\res\processDebugGoogleServices
+fox.Delivery.app-resValues-60 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\generated\res\resValues\debug
+fox.Delivery.app-packageDebugResources-61 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+fox.Delivery.app-packageDebugResources-62 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+fox.Delivery.app-debug-63 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\app\intermediates\merged_res\debug\mergeDebugResources
+fox.Delivery.app-debug-64 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\audioplayers_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-65 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\connectivity_plus\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-66 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\device_info_plus\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-67 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\emoji_picker_flutter\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-68 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\file_picker\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-69 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\firebase_auth\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-70 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-71 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\firebase_messaging\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-72 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\flutter_foreground_task\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-73 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\flutter_inappwebview_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-74 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\flutter_local_notifications\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-75 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-76 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\fluttertoast\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-77 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\geocoding_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-78 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\geolocator_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-79 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\google_maps_flutter_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-80 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-81 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\open_file_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-82 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\package_info_plus\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-83 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-84 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\permission_handler_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-85 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\share_plus\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-86 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\shared_preferences_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-87 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\sqflite_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-88 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\url_launcher_android\intermediates\packaged_res\debug\packageDebugResources
+fox.Delivery.app-debug-89 C:\Users\roney\Documents\GitHub\Usuario\Fox GO\Entregador\build\vibration\intermediates\packaged_res\debug\packageDebugResources
