@@ -1,2 +1,0 @@
-C:/Users/roney/Documents/GitHub/Usuario/Fox GO/Entregador/build/.cxx/release/j1i3h353/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/roney/Documents/GitHub/Usuario/Fox GO/Entregador/build/.cxx/release/j1i3h353/arm64-v8a/CMakeFiles/rebuild_cache.dir
