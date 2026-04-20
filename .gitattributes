@@ -1,0 +1,16 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.packages
+
+# Android
+.gradle/
+local.properties
+
+# iOS
+Pods/
+
+# Outros
+*.log
+.DS_Store
+Thumbs.db
