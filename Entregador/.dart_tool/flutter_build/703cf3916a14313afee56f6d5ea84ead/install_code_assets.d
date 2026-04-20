@@ -1,0 +1,1 @@
+ C:\\Users\\roney\\Documents\\GitHub\\Usuario\\Fox\ GO\\Entregador\\.dart_tool\\flutter_build\\703cf3916a14313afee56f6d5ea84ead\\native_assets.json: 
