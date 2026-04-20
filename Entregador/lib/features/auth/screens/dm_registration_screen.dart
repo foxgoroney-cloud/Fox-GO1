@@ -3,7 +3,6 @@ import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:shimmer_animation/shimmer_animation.dart';
 import 'package:fox_delivery_driver/common/widgets/custom_asset_image_widget.dart';
 import 'package:fox_delivery_driver/common/widgets/custom_card.dart';
 import 'package:fox_delivery_driver/common/widgets/custom_drop_down_button.dart';
@@ -379,11 +378,17 @@ class _DmRegistrationScreenState extends State<DmRegistrationScreen> {
                                 ]),
                               ),
                             ),
-                          ]) : ClipRRect(
-                            borderRadius: BorderRadius.circular(Dimensions.radiusDefault),
-                            child: Shimmer(
-                              child: Container(height: 50, color: Theme.of(context).shadowColor),
+                          ]) : Container(
+                            height: 50,
+                            width: double.infinity,
+                            alignment: Alignment.centerLeft,
+                            padding: const EdgeInsets.symmetric(horizontal: Dimensions.paddingSizeDefault),
+                            decoration: BoxDecoration(
+                              color: Theme.of(context).disabledColor.withValues(alpha: 0.08),
+                              borderRadius: BorderRadius.circular(Dimensions.radiusDefault),
+                              border: Border.all(color: Theme.of(context).disabledColor.withValues(alpha: 0.3)),
                             ),
+                            child: Text('failed'.tr, style: robotoRegular.copyWith(color: Theme.of(context).hintColor)),
                           ),
                           const SizedBox(height: Dimensions.paddingSizeExtraLarge),
 
@@ -411,11 +416,17 @@ class _DmRegistrationScreenState extends State<DmRegistrationScreen> {
                                 ]),
                               ),
                             ),
-                          ]) : ClipRRect(
-                            borderRadius: BorderRadius.circular(Dimensions.radiusDefault),
-                            child: Shimmer(
-                              child: Container(height: 50, color: Theme.of(context).shadowColor),
+                          ]) : Container(
+                            height: 50,
+                            width: double.infinity,
+                            alignment: Alignment.centerLeft,
+                            padding: const EdgeInsets.symmetric(horizontal: Dimensions.paddingSizeDefault),
+                            decoration: BoxDecoration(
+                              color: Theme.of(context).disabledColor.withValues(alpha: 0.08),
+                              borderRadius: BorderRadius.circular(Dimensions.radiusDefault),
+                              border: Border.all(color: Theme.of(context).disabledColor.withValues(alpha: 0.3)),
                             ),
+                            child: Text('failed'.tr, style: robotoRegular.copyWith(color: Theme.of(context).hintColor)),
                           ),
                         ]),
                       ),
