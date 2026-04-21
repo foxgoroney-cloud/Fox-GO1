@@ -3,11 +3,11 @@ import 'package:sixam_mart_delivery/util/enums.dart';
 import 'package:sixam_mart_delivery/util/images.dart';
 
 class AppConstants {
-  static const String appName = '6amMart Delivery';
+  static const String appName = '6ammart1776377251';
   static const double appVersion = 3.8; ///Flutter sdk 3.41.6
   static const String fontFamily = 'Roboto';
   static const AppMode appMode = AppMode.delivery;
-  static const String baseUrl = 'https://6ammart-admin.6amtech.com';
+  static const String baseUrl = 'https://foxgodelivery.com.br';
 
   static const String polylineMapKey = 'YOUR_MAP_KEY_HERE';
   static const String configUri = '/api/v1/config';
