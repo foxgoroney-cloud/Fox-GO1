@@ -37,7 +37,7 @@
 
     <application
         tools:replace="android:label"
-        android:label="6amMart Delivery"
+        android:label="6ammart1776377251"
         android:name="${applicationName}"
         android:extractNativeLibs="true"
         android:requestLegacyExternalStorage="true"
