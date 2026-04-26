@@ -19,6 +19,7 @@ class Kernel extends ConsoleKernel
         \App\Console\Commands\AttributeSeedCommand::class,
         \App\Console\Commands\ParcelCategorySeedCommand::class,
         \App\Console\Commands\SeedDmVehiclesCommand::class,
+        \App\Console\Commands\SuperappExportCommand::class,
     ];
 
     /**
