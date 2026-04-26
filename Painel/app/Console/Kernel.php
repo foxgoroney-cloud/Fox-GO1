@@ -26,6 +26,8 @@ class Kernel extends ConsoleKernel
         \App\Console\Commands\SuperappGeoImportPostalCodesCommand::class,
         \App\Console\Commands\SuperappZoneBuildCommand::class,
         \App\Console\Commands\SuperappZoneSyncModulesCommand::class,
+        \App\Console\Commands\SuperappZoneImportBrazilCommand::class,
+        \App\Console\Commands\SuperappZoneOneShotBrazilCommand::class,
         \App\Console\Commands\SuperappCatalogExpandCommand::class,
         \App\Console\Commands\SuperappSkuImportCommand::class,
         \App\Console\Commands\SuperappAuditScaleCommand::class,
