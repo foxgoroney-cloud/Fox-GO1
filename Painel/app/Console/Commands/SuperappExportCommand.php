@@ -31,6 +31,17 @@ class SuperappExportCommand extends Command
         'stores',
         'units',
         'tags',
+        'br_states',
+        'br_cities',
+        'br_neighborhoods',
+        'postal_code_ranges',
+        'zone_regions',
+        'zone_region_polygons',
+        'zone_region_neighborhoods',
+        'zone_region_modules',
+        'superapp_import_jobs',
+        'superapp_import_errors',
+        'superapp_data_quality_reports',
     ];
 
     public function handle(): int

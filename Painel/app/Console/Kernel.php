@@ -20,6 +20,16 @@ class Kernel extends ConsoleKernel
         \App\Console\Commands\ParcelCategorySeedCommand::class,
         \App\Console\Commands\SeedDmVehiclesCommand::class,
         \App\Console\Commands\SuperappExportCommand::class,
+        \App\Console\Commands\SuperappGeoImportStatesCommand::class,
+        \App\Console\Commands\SuperappGeoImportCitiesCommand::class,
+        \App\Console\Commands\SuperappGeoImportNeighborhoodsCommand::class,
+        \App\Console\Commands\SuperappGeoImportPostalCodesCommand::class,
+        \App\Console\Commands\SuperappZoneBuildCommand::class,
+        \App\Console\Commands\SuperappZoneSyncModulesCommand::class,
+        \App\Console\Commands\SuperappCatalogExpandCommand::class,
+        \App\Console\Commands\SuperappSkuImportCommand::class,
+        \App\Console\Commands\SuperappAuditScaleCommand::class,
+        \App\Console\Commands\SuperappLaunchMassiveSetupCommand::class,
     ];
 
     /**
